@@ -1,2 +1,2 @@
 # Package-Delivery-Prediction
-A classification model with Random Forest to determine which package will be late delivered
+A classification model with score of accuracy 93% using Random Forest to determine which package will be late delivered
